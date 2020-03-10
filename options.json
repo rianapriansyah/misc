@@ -43,7 +43,7 @@
 	  "embedding": {
 		"dim": 16
 	  },
-	  "n_characters": 262,
+	  "n_characters": 261,
 	  "max_characters_per_token": 50
 	},
 	"batch_size": 128,
